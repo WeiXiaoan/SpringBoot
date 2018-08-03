@@ -1,4 +1,4 @@
-package java.dfsTest;
+package dfsTest;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package java.dfsTest;
+package dfsTest;
 
 /**
  * Created by SmallAnn on 2018/7/12
